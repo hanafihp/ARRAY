@@ -1,0 +1,15 @@
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\bin\Debug\net8.0\PERTEMUAN12.exe
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\bin\Debug\net8.0\PERTEMUAN12.deps.json
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\bin\Debug\net8.0\PERTEMUAN12.runtimeconfig.json
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\bin\Debug\net8.0\PERTEMUAN12.dll
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\bin\Debug\net8.0\PERTEMUAN12.pdb
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\PERTEMUAN12.csproj.AssemblyReference.cache
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\PERTEMUAN12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\PERTEMUAN12.AssemblyInfoInputs.cache
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\PERTEMUAN12.AssemblyInfo.cs
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\PERTEMUAN12.csproj.CoreCompileInputs.cache
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\PERTEMUAN12.dll
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\refint\PERTEMUAN12.dll
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\PERTEMUAN12.pdb
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\PERTEMUAN12.genruntimeconfig.cache
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN12\obj\Debug\net8.0\ref\PERTEMUAN12.dll
